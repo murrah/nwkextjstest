@@ -1,0 +1,2 @@
+When testing the app using NWK the remoting is talking to a live CF server.
+When testing the app using a browser, the user might not be running CF and so the ExtDirect bits of the test app will break. So, these two "cfm" files are actually just static JSON so the browser test will do something.

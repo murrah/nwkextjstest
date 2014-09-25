@@ -1,0 +1,1 @@
+[{"result":"Now! (Dummy response for testing on browser)","tid":1,"method":"getdate","action":"Util","type":"rpc"}] 

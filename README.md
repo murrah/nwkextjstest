@@ -1,4 +1,6 @@
 nwkextjstest
 ============
 
-An ExtJS4 app for demo of node-webkit packaging
+An ExtJS4 app for demo of node-webkit packaging.
+
+See tutorial

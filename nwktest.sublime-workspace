@@ -1,0 +1,2410 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"file",
+				"nwFiles"
+			],
+			[
+				"App",
+				"AppPackageTest"
+			],
+			[
+				"st",
+				"startPath"
+			],
+			[
+				"zoo",
+				"zoomLevel"
+			],
+			[
+				"wri",
+				"writeDump	fn. (cfscript)"
+			],
+			[
+				"date",
+				"dateFormat	fn. (cfscript)"
+			],
+			[
+				"cf",
+				"cfscript	cfscript tab"
+			],
+			[
+				"editor",
+				"editorPlugin"
+			],
+			[
+				"launc",
+				"launchcmp"
+			],
+			[
+				"sql",
+				"sqlGetArray	CFfunctions.getRecordsArray(SELECT)"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"struc",
+				"structKeyExists	fn. (cfscript)"
+			],
+			[
+				"stru",
+				"structKeyExists	fn. (cfscript)"
+			],
+			[
+				"wr",
+				"writeDump	fn. (cfscript)"
+			],
+			[
+				"contextA",
+				"contextappmapkey"
+			],
+			[
+				"build",
+				"buildPathPrefix"
+			],
+			[
+				"debu",
+				"debugLog	debugLog"
+			],
+			[
+				"deb",
+				"debugLog	debugLog"
+			],
+			[
+				"vOps",
+				"vOpsItemPanel"
+			],
+			[
+				"bin",
+				"binaryEncode	fn. (cfscript)"
+			],
+			[
+				"for",
+				"for-in-loop	fn. (cfscript)"
+			],
+			[
+				"targ",
+				"targetkey"
+			],
+			[
+				"cle",
+				"clearStoreSilently"
+			],
+			[
+				"launch",
+				"launchConfig"
+			],
+			[
+				"mod",
+				"moduleTab"
+			],
+			[
+				"struct",
+				"structKeyExists	fn. (cfscript)"
+			],
+			[
+				"write",
+				"writeDump	fn. (cfscript)"
+			],
+			[
+				"missin",
+				"missingThreadToPersons"
+			],
+			[
+				"var",
+				"variables"
+			],
+			[
+				"ow",
+				"ownerTree"
+			],
+			[
+				"permissio",
+				"permissionData"
+			],
+			[
+				"vOp",
+				"vOpsItemTree"
+			],
+			[
+				"permis",
+				"permissionData"
+			],
+			[
+				"fin",
+				"findPermissionData"
+			],
+			[
+				"check",
+				"checkoutResult"
+			],
+			[
+				"btnToggle",
+				"btnToggleCard"
+			],
+			[
+				"modu",
+				"modulesArr"
+			],
+			[
+				"vO",
+				"getVOrgChartPanel"
+			],
+			[
+				"str",
+				"structKeyExists	fn. (cfscript)"
+			],
+			[
+				"structk",
+				"structKeyList	fn. (cfscript)"
+			],
+			[
+				"app",
+				"appTreeNode"
+			],
+			[
+				"where",
+				"whereClause"
+			],
+			[
+				"pending",
+				"pendingInvitations"
+			],
+			[
+				"desk",
+				"desktopPanel"
+			],
+			[
+				"per",
+				"permissiondata"
+			],
+			[
+				"oldP",
+				"oldParentData"
+			],
+			[
+				"human",
+				"humangroupmemberlink"
+			],
+			[
+				"get",
+				"getController"
+			],
+			[
+				"clas",
+				"classConfig"
+			],
+			[
+				"structKey",
+				"structKeyExists	fn. (cfscript)"
+			],
+			[
+				"pack",
+				"packData"
+			],
+			[
+				"expand",
+				"expandPath"
+			],
+			[
+				"sear",
+				"searchString"
+			],
+			[
+				"last",
+				"lastSearchStr"
+			],
+			[
+				"cmx",
+				"cmxSearchBar"
+			],
+			[
+				"vOP",
+				"vOpsItemTree"
+			],
+			[
+				"vOpsIte",
+				"vOpsItemPanel"
+			],
+			[
+				"ops",
+				"opsItem"
+			],
+			[
+				"param",
+				"parameter"
+			],
+			[
+				"humangroup",
+				"humangroupops"
+			],
+			[
+				"id",
+				"mOpsItemNode"
+			],
+			[
+				"vOpsI",
+				"vOpsItemViewer"
+			],
+			[
+				"nodeP",
+				"nodePathTextFields"
+			],
+			[
+				"this",
+				"thisNode"
+			],
+			[
+				"cOps",
+				"cOpsItemTree"
+			],
+			[
+				"opEditor",
+				"opEditorDate"
+			],
+			[
+				"cfFuntion",
+				"CFfunctions"
+			],
+			[
+				"resp",
+				"responseData"
+			],
+			[
+				"record",
+				"recordCount"
+			],
+			[
+				"icon",
+				"iconCls"
+			],
+			[
+				"appTree",
+				"appTreeNodeId"
+			],
+			[
+				"joi",
+				"jointObj"
+			],
+			[
+				"cOr",
+				"cOrgChart"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"sty",
+				"structIsEmpty	fn. (cfscript)"
+			],
+			[
+				"writ",
+				"writeDump	fn. (cfscript)"
+			],
+			[
+				"sOpsItem",
+				"sOpsItemNodes"
+			],
+			[
+				"crea",
+				"createObject	fn. (cfscript)"
+			],
+			[
+				"orgK",
+				"orgKeyList"
+			],
+			[
+				"listfin",
+				"listFindNoCase	fn. (cfscript)"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"search",
+				"searchfield"
+			],
+			[
+				"list",
+				"listeners	Ext/Touch listeners config"
+			],
+			[
+				"Exp",
+				"expandPath	fn. (cfscript)"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"structkey",
+				"structKeyExists	fn. (cfscript)"
+			],
+			[
+				"cre",
+				"createObject	fn. (cfscript)"
+			],
+			[
+				"A",
+				"Ajax"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"pers",
+				"personlastname"
+			],
+			[
+				"inv",
+				"invdatetime"
+			],
+			[
+				"M",
+				"MembershipInvitation"
+			],
+			[
+				"Msg",
+				"MessageBox"
+			],
+			[
+				"roo",
+				"rootNode"
+			],
+			[
+				"Hum",
+				"HumanGroupMember"
+			],
+			[
+				"create",
+				"createMenu"
+			],
+			[
+				"dairy",
+				"dairyFilter"
+			],
+			[
+				"dai",
+				"dairyFilter"
+			],
+			[
+				"vIngred",
+				"vIngredientList"
+			],
+			[
+				"on",
+				"onLocalHost"
+			],
+			[
+				"Write",
+				"writeOutput	fn. (cfscript)"
+			],
+			[
+				"client",
+				"clienttoken"
+			],
+			[
+				"security",
+				"securitySettings"
+			],
+			[
+				"requ",
+				"requestConfig"
+			],
+			[
+				"update",
+				"updateItem"
+			],
+			[
+				"cu",
+				"customErrs"
+			],
+			[
+				"pass",
+				"passwordconfirm"
+			],
+			[
+				"position",
+				"positionWin"
+			],
+			[
+				"find",
+				"findNoCase	fn. (cfscript)"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"schema",
+				"schemaid"
+			],
+			[
+				"sche",
+				"schemaid"
+			],
+			[
+				"cV",
+				"cVideo2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/js/NWK-requires.js",
+			"settings":
+			{
+				"buffer_size": 2836,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Global.js",
+			"settings":
+			{
+				"buffer_size": 1861,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 481,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/view/Main.js",
+			"settings":
+			{
+				"buffer_size": 6669,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 296,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "postto.cfm",
+			"settings":
+			{
+				"buffer_size": 810,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/DirectAPI.js",
+			"settings":
+			{
+				"buffer_size": 2457,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/overrides/Connection.js",
+			"settings":
+			{
+				"buffer_size": 1702,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "node_modules/fsexplorer.js",
+			"settings":
+			{
+				"buffer_size": 2118,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Application.js",
+			"settings":
+			{
+				"buffer_size": 1557,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 159.0,
+		"selected_items":
+		[
+			[
+				"open re",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"package re",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"to",
+				"TodoReview: Project Files"
+			],
+			[
+				"",
+				"AutoBackups: Open file backup"
+			],
+			[
+				"backup",
+				"AutoBackups: Open file backup"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ext",
+				"Snippet: extajax"
+			],
+			[
+				"Snippet: aj",
+				"Snippet: ajax"
+			],
+			[
+				"Snippet:",
+				"Snippet: Ajax"
+			],
+			[
+				"Snippet: aja",
+				"Snippet: Ajax"
+			],
+			[
+				"Snippet: a",
+				"Snippet: Anonymous Function"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"doc",
+				"Set Syntax: JavaDoc"
+			],
+			[
+				"packages",
+				"Package Control: Install Package"
+			],
+			[
+				"oackage",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 637.0
+	},
+	"console":
+	{
+		"height": 392.0,
+		"history":
+		[
+			"view.settings().get('font_face')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/ColdFusion9/wwwroot/Sites/nwktest",
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/app",
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/app/overrides",
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/app/view",
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/build",
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/build/production",
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/build/production/App",
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/build/production/AppNWK",
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/build/temp/production",
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/build/temp/production/App",
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/build/temp/production/App/sencha-compiler",
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/mydocs",
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/node_modules",
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/resources/js"
+	],
+	"file_history":
+	[
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/build/production/AppNWK/package.bat",
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/build/production/AppNWK/deployMyFlowt.bat",
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/mydocs/Budget.txt",
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/build/production/App/Test1.txt",
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/mydocs/Test1.txt",
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/nw.bat",
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/servicebus/README.MD",
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/servicebus/Util.cfc",
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/servicebus/application.cfc",
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/servicebus/Router.cfm",
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/servicebus/Api.cfm",
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/servicebus/README.md",
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/overrides/Connection.js",
+		"/C/ColdFusion9/wwwroot/Sites/nwktest/Test1.doc",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/app/controller/Readme.md",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/app/model/Readme.md",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/app/store/Readme.md",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/app/view/Readme.md",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/build/production/App/package.json",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/build/production/App/resources/js/notify.jsXXX",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/build/production/App/resources/js/notify.js",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/resources/js/notify.jsXXX",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/resources/js/notify.js",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/package.json",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Theme - Default/Default.sublime-theme",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Sencha/Snippets/Ext_define.sublime-snippet",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/servicebus/Util.cfc",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/servicebus/Api.cfm",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/servicebus/Router.cfm",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/servicebus/Direct.cfc",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/app/controller/Main.js",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/node_modules/file/lib/file.js",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/node-webkit-test-master/file-explorer/main.js",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/test1/node_modules/file.js",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/app/DesktopNotifications.js",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/test1/main.js",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/node_modules/httpreq/lib/httpreq.js",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/nw.bat",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/nwLocal.bat",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/app/DirectAPI.js",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/notify.js",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/.sencha/app/build-impl.xml",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/.sencha/app/js-impl.xml",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/node_modules/httpreq/examples.js",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/postto.cfm",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/index.html",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/server/checkauth.json",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/servicebus/users.cfcXXX",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/servicebus/udf.cfcXXX",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/servicebus/orders.cfcXXX",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/servicebus/application.cfc",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/ext/src/data/Connection.js",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/app/overrides/Connection.js",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/cf/DirectCFMBlomsky/app/store/UnShippedOrders.js",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/app.js",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/cf/DirectCFMBlomsky/app.js",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/cf/DirectCFMSencha/README.md",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/cf/ExtDirectCF-0.9/README.md",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/cf/extDirect/README.md",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/cf/DirectCFM/README.md",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/testExt/build/production/App/nw.bat",
+		"/C/Program Files/nodejs/node_modules/npm/bin/npm-cli.js",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/test1/nw.bat",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/test1/index.html",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/test1/package.json",
+		"/C/ColdFusion9/wwwroot/Sites/node-webkit-tests/test1/test1.txt",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/view/vPostGrid.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/controller/cConversation.js_old",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/controller/cConversation.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/shared/controller/cDockWindow.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/view/vPeopleGridGroup.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/view/vPeoplePanel.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/view/vPeopleGrid.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/controller/cOrgPerson.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/controller/cNotification.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/controller/cMembershipInvitation.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/controller/cLogin.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/controller/cOrg.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/controller/cOrgRole.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/controller/cOpsItem.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/controller/BuildingADockWindowPattern.cfc",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/admin/rest/application.cfc",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/admin/orm/Permission.cfc",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/view/vOpsItemPanel.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/application.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/shared/controller/cOpsItem.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/model/mRepoLinkNode.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/store/sRepoLinkNodes.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/shared/controller/cOpsItemTree.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/controller/cOpsItemTree.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/store/sRepoLinkItem.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/model/mRepoLinkItem.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/shared/model/mOpsItem.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/shared/store/sOpsItem.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/shared/model/mRepoLinkNode.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/sass/src/App/view/vOpsItemViewer.scss",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/admin/resources/resThread.cfc",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/admin/testEnt.cfm",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/admin/orm/ThreadTo.cfc",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/admin/resources/resNotification.cfc",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/admin/resources/resMemberPrefs.cfc",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/admin/resources/resTag.cfc",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/admin/resources/resMembershipInvitation.cfc",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/admin/resources/resHumanGroup.cfc",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/view/vConvComposeWin.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/admin/resources/resPost.cfc",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/admin/resources/resOrg.cfc",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/admin/resources/resUser.cfc",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/view/vOpsManualPanel.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/controller/BuildingADockWindowPattern.md",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/resources/css/contents.css",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/view/vPersonPermissionsTree.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/view/vOpsItemTabPanel.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/shared/store/sOpsItemNodes.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/admin/orm/Org.cfc",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/view/vOpsItemForm.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/view/vOrgTabPanel.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/app/view/vOrgForm.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/sass/src/App/view/appIcons.scss",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/admin/application.cfc",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/admin/resources/resOpsItem.cfc",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/ext/src/grid/RowEditor.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/admin/resources/resRepoBase.cfc",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/admin/resources/resRepoFileSystem.cfc",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/build/production/App/resources/js/tinymce4.0.21/plugins/codemirror/CodeMirror/theme/paraiso-light.css",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/ext/src/ux/PreviewPlugin.js",
+		"/C/ColdFusion9/wwwroot/Sites/Flowt/desk/ext/src/direct/PollingProvider.js"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"*/nwktest/*,-*/build/*,-*/archive/*,-*/devOld/*,*/ExtBaseUx/*,-*/touch/*,-*/tinymce/*,-*/ext/*",
+			"*/node-webkit-tests/*,-*/build/*,-*/archive/*,-*/devOld/*,*/ExtBaseUx/*,-*/touch/*,-*/tinymce/*,-*/ext/*",
+			"*/NodeWebKitTests/*,-*/build/*,-*/archive/*,-*/devOld/*,*/ExtBaseUx/*,-*/touch/*,-*/tinymce/*,-*/ext/*",
+			"*/NodeWebLitTests/*,-*/build/*,-*/archive/*,-*/devOld/*,*/ExtBaseUx/*,-*/touch/*,-*/tinymce/*,-*/ext/*",
+			"*/flowt/*,-*/build/*,-*/archive/*,-*/devOld/*,*/ExtBaseUx/*,-*/touch/*,-*/tinymce/*,-*/ext/*",
+			"*/ext/src/*",
+			"*/src/\\ext/*",
+			"*/src/ext/*",
+			"*/ext/*",
+			"*/flowt/*,-*/build/*,-*/archive/*,-*/devOld/*,*/ExtBaseUx/*,-*/touch/*,-*/tinymce/*,-*/ext/*",
+			"*/flowt/*,-*/build/*,-*/archive/*,-*/devOld/*,*/ExtBaseUx/*,-*/touch/*,-*/tinymce/*",
+			"*/flowt/*,-*/build/*,-*/archive/*,-*/devOld/*,*/ExtBaseUx/*,-*/touch/*,-*/tinymce/*,-*/ext/*",
+			"*/organisationModeller/*,-*/build/*,-*/archive/*,-*/devOld/*,*/ExtBaseUx/*,-*/touch/*,-*/tinymce/*,-*/ext/*",
+			"*/organisationModeller/*,-*/build/*,-*/archive/*,-*/devOld/*,*/ExtBaseUx/*,-*/touch/*,-*/tinymce/*",
+			"*/organisationModeller/*,-*/build/*,-*/archive/*,-*/devOld/*,*/ExtBaseUx/*,-*/touch/*",
+			"*/organisationModeller/*,-*/build/*,-*/archive/*,-*/ext/*,-*/devOld/*,*/ExtBaseUx/*",
+			"*/tinymce/*",
+			"*/organisationModeller/*,-*/build/*,-*/archive/*,-*/ext/*,-*/devOld/*,*/ExtBaseUx/*",
+			"*/organisationModeller/*,-*/build/*,-*/archive/*,-*/ext/*,-*/devOld/*",
+			"*/organisationModeller/*,-*/build/*,-*/archive/*,-*/ext/*,-*/devOld/*,*/ExtBaseUx/*",
+			"*/organisationModeller/*,-*/build/*,-*/archive/*,-*/ext/*,*/ExtBaseUx/*",
+			"*/organisationModeller/*,-*/build/*,-*/ext/*,*/ExtBaseUx/*",
+			"*/organisationModeller/*,-*/build/*,-*/ext/*,-*/archive/*",
+			"*/organisationModeller/*,-*/build/*,-*/ext/*",
+			"*/organisationModeller/*,-*/build/*,-*/ext/*,*/organisationModellerServer/*",
+			"*/organisationModeller/*,-*/build/*,-*/ext/*,-*/archive/*,*/organisationModellerServer/*",
+			"*/organisationModeller/*,-*/build/*,-*/ext/*,*/organisationModellerServer/*",
+			"*/organisationModeller/*,-*/build/*,-*/ext/*,*/ExtBaseUx/*",
+			"*/organisationModeller/*,-*/build/*,-*/ext/*,*/organisationModellerServer/*",
+			"*/organisationModeller/*,-*/build/*,-*/ext/*",
+			"<open folders>",
+			"*/organisationModeller/*,-*/build/*",
+			"*/organisationModeller/*,-*/build/*,-*/ext/*,*/organisationModellerServer/*",
+			"<open folders>",
+			"*/organisationModeller/*,-*/build/*,-*/ext/*,*/organisationModellerServer/*",
+			"*/organisationModeller/app/*",
+			"*/organisationModeller/*,-*/build/*,-*/ext/*",
+			"*/organisationModeller/*,-*/build/*,-*/ext/*,*/organisationModellerServer/*",
+			"*/organisationModeller/*,-*/build/*,-*/ext/*",
+			"*/organisationModeller/*,-*/build/*",
+			"*/organisationModeller/*,-/*build*/",
+			"*/organisationModeller/*",
+			"<open folders>",
+			"*/fuelSociety/app/*,-*/control/*,<open folders>",
+			"*/fuelSociety_old/app/*,-*/control/*",
+			"*/fuelSociety/app/*,-*/control/*,<open folders>",
+			"*/servemydata/*",
+			"*/fuelSociety/app/*,-*/control/*,<open folders>",
+			"*/fuelSociety/app/*,-*/control/*",
+			"*/fuelSociety_old/app/*,-*/control/*",
+			"*/fuelSociety/app/*,-*/control/*",
+			"*/fuelSociety/app/*,-*/controller/*",
+			"*/fuelSociety/app/*",
+			"*/app/*",
+			"*/fuelSociety/app/*",
+			"*/fuelSociety\\\\app/*",
+			"*/fuelSociety\\app/*",
+			"*/app/*",
+			"-*/docs/*,-*/build/*,-*/ext/*,-*/sass/*",
+			"-*/docs/*,-*/build/*,-*/ext/*",
+			"-*/docs/*,-*/build/*",
+			"-*/docs/*",
+			"-*/docs/*,C:\\ColdFusion9\\wwwroot\\Sites\\fuelSociety\\app,C:\\ColdFusion9\\wwwroot\\Sites\\ExtJS4ux,C:\\ColdFusion9\\wwwroot\\Sites\\ServeMyData",
+			"C:\\ColdFusion9\\wwwroot\\Sites\\fuelSociety\\app,C:\\ColdFusion9\\wwwroot\\Sites\\ExtJS4ux,C:\\ColdFusion9\\wwwroot\\Sites\\ServeMyData",
+			"C:\\ColdFusion9\\wwwroot\\Sites\\fuelSociety\\app,C:\\ColdFusion9\\wwwroot\\Sites\\ExtJS4ux\\ux,C:\\ColdFusion9\\wwwroot\\Sites\\ExtJS4ux\\mx,C:\\ColdFusion9\\wwwroot\\Sites\\ServeMyData",
+			"*/exportdata/*",
+			"C:\\ColdFusion9\\wwwroot\\Sites\\fuelSociety\\app,C:\\ColdFusion9\\wwwroot\\Sites\\ExtJS4ux\\ux,C:\\ColdFusion9\\wwwroot\\Sites\\ExtJS4ux\\mx,C:\\ColdFusion9\\wwwroot\\Sites\\ServeMyData",
+			"C:\\ColdFusion9\\wwwroot\\Sites\\fuelSociety\\app;,C:\\ColdFusion9\\wwwroot\\Sites\\ExtJS4ux,C:\\ColdFusion9\\wwwroot\\Sites\\ServeMyData",
+			"<open folders>",
+			"C:\\ColdFusion9\\wwwroot\\Sites\\CuriositySkilledTheCat\\m\\dev\\app,C:\\ColdFusion9\\wwwroot\\Sites\\ExtTouchux,C:\\ColdFusion9\\wwwroot\\Sites\\ServeMyData,C:\\ColdFusion9\\wwwroot\\Sites\\CuriositySkilledTheCat\\admin,-*.txt",
+			"C:\\ColdFusion9\\wwwroot\\Sites\\CuriositySkilledTheCat\\m\\dev\\app,C:\\ColdFusion9\\wwwroot\\Sites\\ExtTouchux,C:\\ColdFusion9\\wwwroot\\Sites\\ServeMyData,C:\\ColdFusion9\\wwwroot\\Sites\\CuriositySkilledTheCat\\admin",
+			"C:\\ColdFusion9\\wwwroot\\Sites\\CuriositySkilledTheCat\\m\\dev\\app,C:\\ColdFusion9\\wwwroot\\Sites\\ExtTouchux,C:\\ColdFusion9\\wwwroot\\Sites\\ServeMyData",
+			"C:\\ColdFusion9\\wwwroot\\Sites\\CuriositySkilledTheCat\\m\\dev\\app,C:\\ColdFusion9\\wwwroot\\Sites\\ExtTouchux",
+			"C:\\ColdFusion9\\wwwroot\\Sites\\CuriositySkilledTheCat\\m\\dev\\app",
+			"<open folders>",
+			"C:\\ColdFusion9\\wwwroot\\Sites\\CuriositySkilledTheCat\\m\\dev\\app",
+			"C:\\ColdFusion9\\wwwroot\\Sites\\CuriositySkilledTheCat\\m\\dev",
+			"<open folders>",
+			"<open folders>,-*.js",
+			"<open folders>",
+			"C:\\ColdFusion9\\wwwroot\\Sites\\fuelSociety",
+			"C:\\ColdFusion9\\wwwroot\\Sites\\CuriositySTC\\",
+			"C:\\ColdFusion9\\wwwroot\\Sites\\CuriositySTC\\vvideo"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\",
+			".webRoot",
+			"%1",
+			"package",
+			"pause",
+			"y",
+			"appicon",
+			"hello",
+			"start",
+			"file.walk('d:/flowtRepo/',function(null, dirPath, dirs, files){\n                                console.log(dirs);\n                                console.log(files); \n                            });",
+			"folder_view",
+			"AddressBar",
+			"showDevTools",
+			"runlocal",
+			"timeout",
+			"tag",
+			"win",
+			"return",
+			"useDefaultXhrHeader",
+			"/",
+			"Determine if this is a field post.",
+			"udf",
+			"Ext._",
+			"httpreq",
+			"request",
+			"DirectAPI",
+			"Ext.Direct",
+			"Ext.Direct.addProvider",
+			"direct",
+			"Ext.Direct.addProvider",
+			"onClickPostReply",
+			"permissio",
+			"btnadd",
+			"uxSyncToSelection",
+			"itemId=btn",
+			"hide",
+			"vPeopleGrid",
+			"itemId=btn",
+			"plugin",
+			"beforeedit",
+			"vpeoplegrid",
+			"accept pending",
+			"haveShownMessage",
+			"crepo",
+			"sOrg",
+			"vOpsItemForm",
+			"vOpsItemTree",
+			"vOpsItemPanel",
+			"cOpsItem",
+			"onDockWindowSelected",
+			"vOpsItemTree",
+			"vopsitemtree",
+			"vOpsItemTree",
+			"OpsItem",
+			"sOpsItem",
+			"}",
+			"sOpsItem",
+			"Shared",
+			"cOpsItemTree",
+			"OpsItem",
+			"sOpsItemNodes",
+			"Shared",
+			"vOpsItemTree",
+			"vOpsItemPanel",
+			"OpsItem",
+			"vRepoLinkTree",
+			"vOpsItemPanel",
+			"vOpsManualPath",
+			"cOpsItem",
+			"vOpsItemTree",
+			"vPersonPermissionsTree",
+			"pdf",
+			"try",
+			"rec",
+			"=",
+			"addPseudoLinkListener",
+			"ux-opsitem-link",
+			"Ok. Need to implement file links - use a uuid to represent a record in the db that contains the file location and api to access it - operating system, box, google drive, etc\n\nUse that same technique for the opsItem videos including the App level ones.\n\n",
+			"invitationEmail",
+			"invitationObj",
+			"processinvitation",
+			"\n	",
+			"as nextBlogThreadId",
+			"moduleid",
+			"threadto.moduleid,",
+			"moduleid",
+			"threadto.moduleid,",
+			"moduleId",
+			"moduleid",
+			"typSql",
+			"tt.",
+			"newThreadToArr",
+			"threadto",
+			"ThreadTo",
+			"appConfig",
+			"resTag",
+			"To complete your signup",
+			"sfuzzy",
+			"m-convrec",
+			"fuzzydat",
+			"ux-postgrid-message-title",
+			"fuzzydate",
+			"postdate",
+			"fuzzydate",
+			"12",
+			"isInAShortcut",
+			"pinned",
+			"pinnable",
+			"pinable",
+			"targetkey",
+			"resMemberPrefs",
+			"thread",
+			"userid",
+			"read",
+			"threadIdJustRead",
+			"lastBlogThreadId",
+			"resUserPrefs",
+			"\n		",
+			"resUserPrefs",
+			"resMemberPrefs",
+			"resUserPrefs",
+			"resUSerPrefs",
+			"afterread",
+			"vOpsItemStatusCombo",
+			"fld",
+			"uxowner",
+			"composeWin",
+			"panel.vComposeWin"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\n	,onClickQuoteReply: function(vPostGrid, event, target, eOpts) {\n		this.debugLog(' ');\n		Ext.Msg.alert('TO DO','Copy the content of this post into the new reply')\n	}\n",
+			"appmapkey",
+			"Settings-16px.png",
+			"OpsItem-16px",
+			"",
+			"cDockWindow",
+			"cmxDockWindow",
+			"cDesktop",
+			"Ext.cmx.desktop",
+			"appmapdata",
+			"local.",
+			"vThreadGrid",
+			"App.util.Global.getServerURL()",
+			"Ext.cux.app.Controller",
+			"'App.",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/js/NWK-requires.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2836,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								2836
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1008.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Global.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1861,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								606,
+								606
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 72.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								88,
+								140
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/view/Main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								6669
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								296
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "postto.cfm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 810,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								327,
+								327
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"syntax": "Packages/ColdFusion/HTML+CFML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/DirectAPI.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2457,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2057,
+								2057
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 648.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/overrides/Connection.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1702,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1702
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 144.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "node_modules/fsexplorer.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								2118
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/Application.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1557,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1392,
+								1392
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 348.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "nwktest.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"vpostgrid",
+				"desk\\app\\view\\vPostGrid.js"
+			],
+			[
+				"vthre",
+				"desk\\app\\view\\vThreadGrid.js"
+			],
+			[
+				"cconv",
+				"desk\\app\\controller\\cConversation.js"
+			],
+			[
+				"vpeople",
+				"desk\\app\\view\\vPeopleGrid.js"
+			],
+			[
+				"cnotif",
+				"desk\\app\\controller\\cNotification.js"
+			],
+			[
+				"clogin",
+				"desk\\app\\controller\\cLogin.js"
+			],
+			[
+				"corgchart",
+				"desk\\app\\controller\\cOrgChart.js"
+			],
+			[
+				"applja",
+				"desk\\app\\application.js"
+			],
+			[
+				"vopsitemfo",
+				"desk\\app\\view\\vOpsItemForm.js"
+			],
+			[
+				"applicjs",
+				"desk\\app\\application.js"
+			],
+			[
+				"vopsmanu",
+				"desk\\app\\view\\vOpsManualPanel.js"
+			],
+			[
+				"opsitemtab",
+				"desk\\app\\view\\vOpsItemTabPanel.js"
+			],
+			[
+				"vops",
+				"desk\\app\\view\\vOpsItemPanel.js"
+			],
+			[
+				"appli",
+				"admin\\rest\\application.cfc"
+			],
+			[
+				"resops",
+				"admin\\resources\\resOpsItem.cfc"
+			],
+			[
+				"pplicjs",
+				"desk\\app\\application.js"
+			],
+			[
+				"applic",
+				"admin\\rest\\application.cfc"
+			],
+			[
+				"resnot",
+				"admin\\resources\\resNotification.cfc"
+			],
+			[
+				"vpos",
+				"desk\\app\\view\\vPostGrid.js"
+			],
+			[
+				"testent",
+				"admin\\testEnt.cfm"
+			],
+			[
+				"thread",
+				"admin\\orm\\Thread.cfc"
+			],
+			[
+				"restag",
+				"admin\\resources\\resTag.cfc"
+			],
+			[
+				"resuser",
+				"admin\\resources\\resUser.cfc"
+			],
+			[
+				"resorg",
+				"admin\\resources\\resOrg.cfc"
+			],
+			[
+				"resinv",
+				"admin\\resources\\resMembershipInvitation.cfc"
+			],
+			[
+				"resthread",
+				"admin\\resources\\resThread.cfc"
+			],
+			[
+				"respos",
+				"admin\\resources\\resPost.cfc"
+			],
+			[
+				"reshuman",
+				"admin\\resources\\resHumanGroup.cfc"
+			],
+			[
+				"copsman",
+				"shared\\controller\\cOpsManual.js"
+			],
+			[
+				"vpost",
+				"desk\\app\\view\\vPostGrid.js"
+			],
+			[
+				"cdo",
+				"shared\\controller\\cDockWindow.js"
+			],
+			[
+				"vthread",
+				"desk\\app\\view\\vThreadGrid.js"
+			],
+			[
+				"resthra",
+				"admin\\resources\\resThread.cfc"
+			],
+			[
+				"index",
+				"desk\\index.html"
+			],
+			[
+				"respost",
+				"admin\\resources\\resPost.cfc"
+			],
+			[
+				"cnotific",
+				"desk\\app\\controller\\cNotification.js"
+			],
+			[
+				"repost",
+				"admin\\resources\\resPost.cfc"
+			],
+			[
+				"vtreadgr",
+				"desk\\app\\view\\vThreadGrid.js"
+			],
+			[
+				"vconv",
+				"desk\\app\\view\\vConversationPanel.js"
+			],
+			[
+				"vconvpanopsi",
+				"desk\\app\\view\\vConvPanelOpsItem.js"
+			],
+			[
+				"cdock",
+				"shared\\controller\\cDockWindow.js"
+			],
+			[
+				"resthrea",
+				"admin\\resources\\resThread.cfc"
+			],
+			[
+				"cdockw",
+				"shared\\controller\\cDockWindow.js"
+			],
+			[
+				"resopsitem",
+				"admin\\resources\\resOpsItem.cfc"
+			],
+			[
+				"resor",
+				"admin\\resources\\resOrg.cfc"
+			],
+			[
+				"resord",
+				"admin\\resources\\resOrgNodes.cfc"
+			],
+			[
+				"rescom",
+				"admin\\resources\\resAppModuleCommon.cfc"
+			],
+			[
+				"combobox",
+				"desk\\ext\\src\\form\\field\\ComboBox.js"
+			],
+			[
+				"resopscol",
+				"admin\\resources\\resOpsItemCollection.cfc"
+			],
+			[
+				"resopsit",
+				"admin\\resources\\resOpsItem.cfc"
+			],
+			[
+				"app.",
+				"desk\\app.js"
+			],
+			[
+				"resper",
+				"admin\\resources\\resPermissionNodes.cfc"
+			],
+			[
+				"glob",
+				"desk\\app\\util\\Global.js"
+			],
+			[
+				"vpermissio",
+				"desk\\app\\view\\vPersonPermissionsTree.js"
+			],
+			[
+				"opsitemnodes",
+				"shared\\store\\sOpsItemNodes.js"
+			],
+			[
+				"vsuppo",
+				"desk\\app\\view\\vSupport.js"
+			],
+			[
+				"copsit",
+				"desk\\app\\controller\\cOpsItem.js"
+			],
+			[
+				"copsitem",
+				"shared\\controller\\cOpsItem.js"
+			],
+			[
+				"resappmo",
+				"admin\\resources\\resAppModuleCommon.cfc"
+			],
+			[
+				"resopsite",
+				"admin\\resources\\resOpsItemCollection.cfc"
+			],
+			[
+				"classm",
+				"desk\\dev\\ext\\src\\class\\ClassManager.js"
+			],
+			[
+				"ext-dev",
+				"desk\\dev\\ext\\ext-dev.js"
+			],
+			[
+				"vtin",
+				"OrganisationModeller\\desk\\dev\\app\\view\\vTinyMceField.js"
+			],
+			[
+				"resperm",
+				"OrganisationModeller\\admin\\resources\\resPermissionNodes.cfc"
+			],
+			[
+				"cperm",
+				"OrganisationModeller\\desk\\dev\\app\\controller\\cPermission.js"
+			],
+			[
+				"rescoll",
+				"OrganisationModeller\\admin\\resources\\resOpsItemCollection.cfc"
+			],
+			[
+				"resopsitm",
+				"OrganisationModeller\\admin\\resources\\resOpsItem.cfc"
+			],
+			[
+				"cnot",
+				"OrganisationModeller\\desk\\dev\\app\\controller\\cNotification.js"
+			],
+			[
+				"app.js",
+				"OrganisationModeller\\desk\\dev\\app.js"
+			],
+			[
+				"respermi",
+				"OrganisationModeller\\admin\\resources\\resPermissions.cfc"
+			],
+			[
+				"vnotif",
+				"OrganisationModeller\\desk\\dev\\app\\view\\vNotificationGrid.js"
+			],
+			[
+				"vconvpanel",
+				"OrganisationModeller\\desk\\dev\\app\\view\\vConvPanelHumanGroup.js"
+			],
+			[
+				"vopsitem",
+				"OrganisationModeller\\desk\\dev\\app\\view\\vOpsItemPanel.js"
+			],
+			[
+				"vorgops",
+				"OrganisationModeller\\desk\\dev\\app\\view\\vOrgOpsManualTabPanel.js"
+			],
+			[
+				"vorgtabp",
+				"OrganisationModeller\\desk\\dev\\app\\view\\vOrgTabPanel.js"
+			],
+			[
+				"vopsitemf",
+				"OrganisationModeller\\desk\\dev\\app\\view\\vOpsItemForm.js"
+			],
+			[
+				"cnoti",
+				"OrganisationModeller\\desk\\dev\\app\\controller\\cNotification.js"
+			],
+			[
+				"vtiny",
+				"OrganisationModeller\\desk\\dev\\app\\view\\vTinyMceField.js"
+			],
+			[
+				"reshuma",
+				"OrganisationModeller\\admin\\resources\\resHumanGroup.cfc"
+			],
+			[
+				"copsitemtree",
+				"OrganisationModeller\\desk\\dev\\app\\controller\\cOpsItemTree.js"
+			],
+			[
+				"vopsitemtree",
+				"OrganisationModeller\\desk\\dev\\app\\view\\vOpsItemTree.js"
+			],
+			[
+				"mnoti",
+				"ExtBaseUx\\bmx\\desktop\\model\\mNotification.js"
+			],
+			[
+				"org",
+				"OrganisationModeller\\admin\\orm\\Org.cfc"
+			],
+			[
+				"ops",
+				"OrganisationModeller\\admin\\orm\\OpsItem.cfc"
+			],
+			[
+				"opsitem",
+				"OrganisationModeller\\shared\\controller\\cOpsItemTree.js"
+			],
+			[
+				"vti",
+				"OrganisationModeller\\desk\\dev\\app\\view\\vTinyMceField.js"
+			],
+			[
+				"resopsitemn",
+				"OrganisationModeller\\admin\\resources\\resOpsItemNodes.cfc"
+			],
+			[
+				"restr",
+				"OrganisationModeller\\admin\\resources\\resThread.cfc"
+			],
+			[
+				"resnotif",
+				"OrganisationModeller\\admin\\resources\\resNotification.cfc"
+			],
+			[
+				"cc",
+				"OrganisationModeller\\desk\\dev\\app\\controller\\cConversation.js"
+			],
+			[
+				"copsi",
+				"OrganisationModeller\\desk\\dev\\app\\controller\\cOpsItem.js"
+			],
+			[
+				"cmem",
+				"OrganisationModeller\\desk\\dev\\app\\controller\\cMembershipInvitation.js"
+			],
+			[
+				"vopsitempan",
+				"OrganisationModeller\\desk\\dev\\app\\view\\vOpsItemPanel.js"
+			],
+			[
+				"cnotifi",
+				"OrganisationModeller\\desk\\dev\\app\\controller\\cNotification.js"
+			],
+			[
+				"copsm",
+				"OrganisationModeller\\shared\\controller\\cOpsManual.js"
+			],
+			[
+				"cops",
+				"OrganisationModeller\\desk\\dev\\app\\controller\\cOpsItem.js"
+			],
+			[
+				"vopsitemtr",
+				"OrganisationModeller\\desk\\dev\\app\\view\\vOpsItemTree.js"
+			],
+			[
+				"resperson",
+				"OrganisationModeller\\admin\\resources\\resPerson.cfc"
+			],
+			[
+				"respo",
+				"OrganisationModeller\\admin\\resources\\resPost.cfc"
+			],
+			[
+				"chumangrou",
+				"OrganisationModeller\\desk\\dev\\app\\controller\\cHumanGroup.js"
+			],
+			[
+				"resmemb",
+				"OrganisationModeller\\admin\\resources\\resMembershipInvitation.cfc"
+			],
+			[
+				"ccon",
+				"OrganisationModeller\\desk\\dev\\app\\controller\\cConversation.js"
+			],
+			[
+				"resdesk",
+				"OrganisationModeller\\admin\\resources\\resDesktopIcon.cfc"
+			],
+			[
+				"app",
+				"OrganisationModeller\\desk\\dev\\app.js"
+			],
+			[
+				"resappmap",
+				"OrganisationModeller\\admin\\resources\\resAppMap.cfc"
+			],
+			[
+				"teste",
+				"OrganisationModeller\\admin\\testEnt.cfm"
+			],
+			[
+				"member",
+				"OrganisationModeller\\admin\\orm\\MembershipInvitation.cfc"
+			],
+			[
+				"resmem",
+				"OrganisationModeller\\admin\\resources\\resMembershipInvitation.cfc"
+			],
+			[
+				"cdockwind",
+				"OrganisationModeller\\shared\\controller\\cDockWindow.js"
+			],
+			[
+				"vpostgr",
+				"OrganisationModeller\\desk\\dev\\app\\view\\vPostGrid.js"
+			],
+			[
+				"cn",
+				"OrganisationModeller\\desk\\dev\\app\\controller\\cNotification.js"
+			],
+			[
+				"corgp",
+				"OrganisationModeller\\desk\\dev\\app\\controller\\cOrgPerson.js"
+			],
+			[
+				"resdesktopicon",
+				"OrganisationModeller\\admin\\resources\\resDesktopIcon.cfc"
+			],
+			[
+				"orgchart",
+				"ExtBaseUx\\ExtJS\\cmx\\joint\\view\\OrgChartPanel.js"
+			],
+			[
+				"vopsitemfor",
+				"OrganisationModeller\\desk\\dev\\app\\view\\vOpsItemForm.js"
+			],
+			[
+				"appliccfc",
+				"OrganisationModeller\\admin\\rest\\application.cfc"
+			],
+			[
+				"respermis",
+				"OrganisationModeller\\admin\\resources\\resPermissions.cfc"
+			],
+			[
+				"copsite",
+				"OrganisationModeller\\desk\\dev\\app\\controller\\cOpsItemTree.js"
+			],
+			[
+				"resop",
+				"OrganisationModeller\\admin\\resources\\resOpsItemCollection.cfc"
+			],
+			[
+				"copsitemt",
+				"OrganisationModeller\\desk\\dev\\app\\controller\\cOpsItemTree.js"
+			],
+			[
+				"resno",
+				"OrganisationModeller\\admin\\resources\\resNotification.cfc"
+			],
+			[
+				"notifi",
+				"OrganisationModeller\\admin\\orm\\Notification.cfc"
+			],
+			[
+				"vpostg",
+				"OrganisationModeller\\desk\\dev\\app\\view\\vPostGrid.js"
+			],
+			[
+				"vthreadg",
+				"OrganisationModeller\\desk\\dev\\app\\view\\vThreadGrid.js"
+			],
+			[
+				"vconver",
+				"OrganisationModeller\\desk\\dev\\app\\view\\vConversationPanel.js"
+			],
+			[
+				"notif",
+				"OrganisationModeller\\admin\\orm\\Notification.cfc"
+			],
+			[
+				"respers",
+				"OrganisationModeller\\admin\\resources\\resPerson.cfc"
+			],
+			[
+				"post",
+				"OrganisationModeller\\admin\\orm\\Post.cfc"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\ColdFusion9\\wwwroot\\Sites\\Flowt\\flowt.sublime-project"
+			],
+			[
+				"back",
+				"C:\\ColdFusion9\\wwwroot\\Sites\\OrganisationModeller\\admin\\resources\\BACKUPS_driveD.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+		],
+		"width": 879.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 326.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
